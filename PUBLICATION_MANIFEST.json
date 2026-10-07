@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "title": "MAGIC gamma classification notebook",
   "completion_gate_passed": true,
   "files": [
@@ -10,13 +10,13 @@
     },
     {
       "path": "experiment.py",
-      "sha256": "8b6fb53f6186ed576512131f477f5e63ef1cd38b322831b709ed42ff973a0e80",
-      "bytes": 4351
+      "sha256": "8ed4a9b3d12acf28ed7c65a84d677f97cad68ce0bd4140eba1efee4b5701c7fc",
+      "bytes": 4355
     },
     {
       "path": "magic.ipynb",
-      "sha256": "49b0cec3e311f18860cb5d4c2a32f95c925a208c0cab98622cd7cd6fd9972393",
-      "bytes": 1828
+      "sha256": "22e0c16a44ce9e6718412a52932972aa6aec9441d5114502beca63e8bf3008b1",
+      "bytes": 1838
     },
     {
       "path": "metrics.json",
@@ -25,8 +25,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "c98f9a233098ff04e5dd38c41223dd79b7a976b52ac45c89627dc8b1d2ea5748",
-      "bytes": 558
+      "sha256": "4c4fae07fd28296462ce4815080ff3f4e2f28a67b0c1004b40716ef917187e71",
+      "bytes": 569
     },
     {
       "path": "requirements.txt",
@@ -35,8 +35,8 @@
     },
     {
       "path": "VERIFICATION.json",
-      "sha256": "84d44f52f373078376ea46688ed3396c4aaf5fb06b46c7bc7f319ddcafbbd1a6",
-      "bytes": 753
+      "sha256": "34e6fe885b1e81ff91fe597ee4ab13a876394a168a18aca1a1894e91834ec260",
+      "bytes": 761
     }
   ]
 }

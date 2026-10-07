@@ -1,4 +1,4 @@
-"""Reproducible academic experiment; all transforms fit training data only."""
+"""Reproducible experimental experiment; all transforms fit training data only."""
 import argparse,json
 from pathlib import Path
 import numpy as np
